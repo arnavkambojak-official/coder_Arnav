@@ -1,4 +1,7 @@
 # coder_Arnav
 My first repository in github.
- My name is Arnav Kamboj
+<br>
+My name is Arnav Kamboj.
+<br>
+I study at NITJ in CSE department.
 
